@@ -1,38 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(182, 175, 175);
+  
+}
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.tag{
+  margin-top: 100px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.complete{
+  text-decoration: line-through;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.todo-form{
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
-
-.App-link {
-  color: #61dafb;
+.todo-form input{
+  box-sizing: border-box;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.todo-form button{
+  margin-left: 10px; 
+  box-sizing: border-box;
+  background-color: rgb(151, 70, 151);
+  padding: 4px;
+}
+.button-type{
+  margin-top: 20px;
+  margin-right: 10px;
+  background: none;
+  border: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+.button-type:focus,
+.button-type:active{
+  text-decoration: underline 2px purple;
+}
+.complete-button-green{
+  color: green;
+}
+.complete-button-red{
+  color:brown
+}
+.todos button{
+  padding: 7px;
+}
+.todos input{
+  padding: 7px;
 }
