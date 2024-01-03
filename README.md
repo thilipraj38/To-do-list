@@ -33,8 +33,8 @@ npm start
 - If Edit button is clicked, the task is entered in the input field you can edit the list. while edit option is enable the button near the input text is changed into "ok" if you click the button, you can save the changes. And it will return to "Add". 
 - Below the list three buttons(All, Completed, Uncomplete) are visible it displays the list according to thier completed status.
 ![Screen shot](https://github.com/thilipraj38/to-do-list/blob/main/Screenshot%20from%202024-01-03%2012-03-16.png?raw=true   )
-![Screen shot] (https://github.com/thilipraj38/to-do-list/blob/main/Screenshot%20from%202024-01-03%2012-03-16.png?raw=true)
-![Screen shot] (https://github.com/thilipraj38/to-do-list/blob/main/Screenshot%20from%202024-01-03%2012-06-12.png?raw=true)
+![Screen shot](https://github.com/thilipraj38/to-do-list/blob/main/Screenshot%20from%202024-01-03%2012-03-16.png?raw=true)
+![Screen shot](https://github.com/thilipraj38/to-do-list/blob/main/Screenshot%20from%202024-01-03%2012-06-12.png?raw=true)
 ## Contributing
 If you would like to contribute to the project, follow these steps:
 
