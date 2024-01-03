@@ -36,7 +36,7 @@ npm start
 ![Screen shot](https://github.com/thilipraj38/to-do-list/blob/main/Screenshot%20from%202024-01-03%2012-03-16.png?raw=true   )
 ![Screen shot](https://github.com/thilipraj38/to-do-list/blob/main/Screenshot%20from%202024-01-03%2012-03-16.png?raw=true)
 ![Screen shot](https://github.com/thilipraj38/to-do-list/blob/main/Screenshot%20from%202024-01-03%2012-06-12.png?raw=true)
-## Contributing
+## Contribution
 If you would like to contribute to the project, follow these steps:
 
 - Fork the repository.
